@@ -18,6 +18,3 @@ int showSecond(int num)
 int result = showSecond(number);
 Console.WriteLine($"{number}-> {result}");
 
-// int nov = number/10 % 10;
-
-// Console.WriteLine($"{number}-> {nov}");
