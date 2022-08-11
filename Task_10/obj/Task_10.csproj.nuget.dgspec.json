@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj": {}
+    "C:\\Users\\Max\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj": {
+    "C:\\Users\\Max\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj",
         "projectName": "Task_10",
-        "projectPath": "C:\\Users\\admin\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\DZ_Webinar2\\Task_10\\obj\\",
+        "projectPath": "C:\\Users\\Max\\Desktop\\DZ_Webinar2\\Task_10\\Task_10.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max\\Desktop\\DZ_Webinar2\\Task_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
